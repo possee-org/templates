@@ -30,7 +30,14 @@ will create._
 _How will you know that the completed project with POSSEE has helped solve 
 the stated problem? What metrics will you use, and how will you track them?_
 
-### Previous participation in other mentorship programs
+
+### Knowledge and skills required
+_Describe the background knowledge, technical skills, and tools that contributors
+should have to succeed on this project. Be specific about required vs. 
+nice-to-have skills. This helps with project matching and onboarding._
+
+
+### Previous participation in mentorship programs
 
 _Has your project taken part in a similar program? Explain how this experience may 
 influence the way you work with POSSEE interns._
